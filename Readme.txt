@@ -14,3 +14,9 @@ bootstrap
 material ui
 
 please create a .env file in the backend folder with your database link like CONNECTION_URL= TheLINK.
+
+Installation:
+
+$ npm i
+
+$ npm start
